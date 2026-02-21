@@ -1,4 +1,4 @@
-Hi, I'm Poe!
+Hi, I'm Allen!
 
 Professionally, I've spent over 10 years in working in different areas of customer service, and my entire life enjoying video games and technology. I want to use my insights into what makes a good user experience to develop technologies that make people's lives easier.
 Personally, I'm huge into TTRPGs and boardgames, video games, and space/futurism.
@@ -19,3 +19,11 @@ Current Goals:
 - Figure out a way to help with my partner's projects in SecondLife
 - Dabble in game engines, either Unity or UE
 - Download more RAM
+
+
+Portfolio
+Chronologically what I've worked on.
+
+
+FitFuture 2015
+An old high school project to demonstrate that I can work with a fellow peer to design a deliverable website. In my case, 
