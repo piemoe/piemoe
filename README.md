@@ -5,7 +5,9 @@ Personally, I'm huge into TTRPGs and boardgames, video games, and space/futurism
 The future is coming, let's make it one we want to live in.
 
 
+What I'm well-versed in.
 [![My Skills](https://skillicons.dev/icons?i=py,js,cpp,cs,html,css)](https://skillicons.dev)
+How I do what I do.
 [![My Environments](https://skillicons.dev/icons?i=eclipse,pycharm,vscode,obsidian)](https://skillicons.dev)
 
 Current Goals:
